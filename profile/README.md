@@ -1,6 +1,6 @@
 # ☄️ CICADA 3301
 
-![CICADA 3301 Project](../image/demo.png)
+![CICADA 3301 Project](../image/demo_meteor_madness.png)
 
 ![CICADA 3301](https://img.shields.io/badge/Project-Cicada%203301-blue?style=for-the-badge&logo=rocket)
 ![NASA API](https://img.shields.io/badge/NASA-API%20Powered-red?style=for-the-badge&logo=nasa)
