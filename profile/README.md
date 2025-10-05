@@ -13,7 +13,7 @@
 
 | Item | Description |
 | :--- | :--- |
-| **Project URL** | ***https://locura-de-meteoritos.vercel.app/** |
+| **Project URL** | **https://locura-de-meteoritos.vercel.app/** |
 | **Live Demo** | **https://locura-de-meteoritos.vercel.app/simulacion** |
 | **Tech Stack** | **Frontend:** React, CesiumJS/Three.js (3D Visualization) |
 | | **Backend:** Python (Flask), NumPy (Physics Calculation) |
